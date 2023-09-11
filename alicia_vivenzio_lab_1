@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title> Alicia Vivenzio</title>
+</head>
+    <body>
+<h1> Getting to know Alicia</h1>
+<h2>Introduction</h2>
+        <p>My name is Alicia Vivenzio, I'm a graphic design major, i'm 19,<br> I'm from Stratham NH, I like cats, boba, drawing, and the rain!</p>
+    <h2>Music</h2>
+
+<ol>
+    <li>Marina</li>
+    <li>Tame Impala</li>
+    <li>Gorillaz</li>
+    <li>Paramore</li>
+</ol>
+<h2>Food</h2>
+<ul>
+    <li>Pasta</li>
+    <li>Mochi</li>
+    <li>Ramen, but only real ramen</li>
+</ul>
+<a href="https://www.forkknifeswoon.com/simple-homemade-chicken-ramen/">Real Ramen recipe</a>
+<table border="5" cellpadding="5" width="100%">
+<tr>
+    <td>How?</td>
+    <td>Where?</td>
+    <td>When?</td>
+</tr>
+</table>
+    </body>
+
+
+
+</html>
